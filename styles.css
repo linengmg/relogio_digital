@@ -15,12 +15,13 @@ body {
 }
 
 #clock {
-  font-family: monospace;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: 3.5rem;
   font-weight: bold;
   text-align: center;
   color: chocolate;
-  backdrop-filter: blur(50px);
+  padding-right: 170px;
+  margin-bottom: 30px;
   background-color: hsla(0%, 0%, 100%, 0.1);
   width: 100%;
 }
